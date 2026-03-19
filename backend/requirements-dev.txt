@@ -1,0 +1,5 @@
+# Install with: pip install -r requirements-dev.txt
+# These are NOT needed for production — only for local dev and CI
+pytest==8.3.2
+pytest-asyncio==0.23.8
+ruff==0.5.5
